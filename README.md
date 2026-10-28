@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Komga is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://komga.org/
+Komga is an open-source media server for comics, mangas, BDs, magazines and eBooks. It organizes CBZ, CBR, PDF and EPUB files into libraries, collections or reading lists, and provides a web interface, OPDS feeds, and integrations with various clients. Users can read content via the built-in web reader, Mihon extension, or other compatible readers. The server runs on any system supporting Java or Docker, including Windows, macOS, Linux, and popular NAS devices.
+
+**Areas:** Media Server · Comics · Manga · eBooks · Open Source · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://komga.org/)
+- [Getting started](https://komga.org/docs/introduction)
+- [API reference](https://komga.org/docs/openapi/komga-api)
+- [Support](https://komga.org/docs/category/guides)
+- [Changelog](https://komga.org/docs/openapi/releases)
+- [Blog](https://komga.org/blog)
+- [GitHub](https://github.com/gotson/komga)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/komga/](https://apis.io/providers/komga/).
